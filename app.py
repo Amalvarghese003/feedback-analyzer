@@ -22,7 +22,7 @@ else:
     results_df = pd.DataFrame(columns=RESULTS_COLS)
 
 # Student Feedback Form UI
-st.title("🎓 Student Feedback Form")
+st.title("🎓 Student Feedback Form (v2)")
 
 reg_no = st.text_input("Enter your Register Number")
 name = st.text_input("Enter your Name")
