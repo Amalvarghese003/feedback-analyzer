@@ -1,1 +1,5 @@
-Feedback_ID,Feedback_Text
+Register_Number,Name,Year,Branch,Department,Teacher_Name,Subject,Feedback_Text,Sentiment
+
+21AI001,Arun,3rd Year,AI & ML,AI & ML,Prof. Raj,Data Structures,good,Positive
+234567,ann,1st Year,AI & ML,AI & ML,Prof. Raj,Data Structures,"feel better
+",Positive
